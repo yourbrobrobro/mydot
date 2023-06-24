@@ -1,0 +1,2 @@
+# mydot
+my dot files
